@@ -19,8 +19,8 @@ const CompComp = (props) => {
       <br />
       <button
         onClick={() => {
-          console.log(number);
-          console.log(props.numberOfComp);
+          // console.log(number);
+          // console.log(props);
           props.sellComp(number);
         }}
       >
@@ -32,7 +32,7 @@ const CompComp = (props) => {
 
 const mapStateToProps = (state) => {
   return {
-    numberOfComp: state.numberOfComp,
+    numberOfComp: state.comp.numberOfComp,
   };
 };
 
