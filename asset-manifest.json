@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/redux-shop/static/css/main.4e5ad88b.chunk.css",
-    "main.js": "/redux-shop/static/js/main.fd306dd1.chunk.js",
-    "main.js.map": "/redux-shop/static/js/main.fd306dd1.chunk.js.map",
+    "main.js": "/redux-shop/static/js/main.719d1f0c.chunk.js",
+    "main.js.map": "/redux-shop/static/js/main.719d1f0c.chunk.js.map",
     "runtime-main.js": "/redux-shop/static/js/runtime-main.67683a52.js",
     "runtime-main.js.map": "/redux-shop/static/js/runtime-main.67683a52.js.map",
-    "static/js/2.028b62f2.chunk.js": "/redux-shop/static/js/2.028b62f2.chunk.js",
-    "static/js/2.028b62f2.chunk.js.map": "/redux-shop/static/js/2.028b62f2.chunk.js.map",
+    "static/js/2.ece51ee4.chunk.js": "/redux-shop/static/js/2.ece51ee4.chunk.js",
+    "static/js/2.ece51ee4.chunk.js.map": "/redux-shop/static/js/2.ece51ee4.chunk.js.map",
     "static/js/3.37cf59fe.chunk.js": "/redux-shop/static/js/3.37cf59fe.chunk.js",
     "static/js/3.37cf59fe.chunk.js.map": "/redux-shop/static/js/3.37cf59fe.chunk.js.map",
     "index.html": "/redux-shop/index.html",
     "static/css/main.4e5ad88b.chunk.css.map": "/redux-shop/static/css/main.4e5ad88b.chunk.css.map",
-    "static/js/2.028b62f2.chunk.js.LICENSE.txt": "/redux-shop/static/js/2.028b62f2.chunk.js.LICENSE.txt"
+    "static/js/2.ece51ee4.chunk.js.LICENSE.txt": "/redux-shop/static/js/2.ece51ee4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.67683a52.js",
-    "static/js/2.028b62f2.chunk.js",
+    "static/js/2.ece51ee4.chunk.js",
     "static/css/main.4e5ad88b.chunk.css",
-    "static/js/main.fd306dd1.chunk.js"
+    "static/js/main.719d1f0c.chunk.js"
   ]
 }
